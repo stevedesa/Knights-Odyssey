@@ -1,0 +1,36 @@
+1) Change board size from 8x8
+2) Change starting location from (7, 7)
+3) Exit and solve tour
+Enter Choice: 
+Enter the size of the NxN Board (>3): 
+Board size is invalid
+
+1) Change board size from 8x8
+2) Change starting location from (7, 7)
+3) Exit and solve tour
+Enter Choice: 
+Enter Starting Coordinates (row, col): 
+Invalid starting coordinates
+
+1) Change board size from 8x8
+2) Change starting location from (7, 7)
+3) Exit and solve tour
+Enter Choice: 
+Enter Starting Coordinates (row, col): 
+1) Change board size from 8x8
+2) Change starting location from (3, 1)
+3) Exit and solve tour
+Enter Choice: 
+Enter the size of the NxN Board (>3): 
+1) Change board size from 5x5
+2) Change starting location from (3, 1)
+3) Exit and solve tour
+Enter Choice: 
+Tour # 1
+     5x5 starting at (3, 1)
+     21 12  7  4 19
+      6 17 20 13  8
+     11 22  5 18  3
+     16  1 24  9 14
+     23 10 15  2 25
+
